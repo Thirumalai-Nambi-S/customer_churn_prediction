@@ -39,8 +39,8 @@ The goal is to help organizations take proactive measures to retain customers an
    * Train machine learning models such as:
 
      * Logistic Regression
-     * Decision Tree / Random Forest (if used)
-     * Other classifiers (based on your notebook)
+     * Decision Tree / Random Forest
+ 
 
 5. **Model Evaluation**
 
@@ -80,7 +80,7 @@ customer-churn-prediction/
 ### 🔹 Option 1: Using Google Colab
 
 1. Open the notebook in Google Colab
-2. Upload dataset (if required)
+2. Upload dataset
 3. Run all cells
 
 ### 🔹 Option 2: Run Locally
@@ -99,7 +99,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
----
+
 
 ## 📊 Expected Output
 
@@ -107,23 +107,8 @@ jupyter notebook
 * Performance metrics (accuracy, precision, recall)
 * Visual insights from data analysis
 
----
 
-## ⚠️ Notes
 
-* Ensure dataset path is correct before running
-* Large datasets should not be uploaded to GitHub (use external links if needed)
-
----
-
-## 🔮 Future Improvements
-
-* Hyperparameter tuning for better accuracy
-* Deploy model using Streamlit or Flask
-* Integrate real-time prediction system
-* Use advanced models (XGBoost, Neural Networks)
-
----
 
 ## 👤 Author
 
